@@ -1,0 +1,2 @@
+# NiNA Translate has zero external dependencies!
+# All libraries used are part of the standard Python library.
